@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+}
+
+flex-container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.flex-container .about {
+    background: lightcyan;
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex: 1;
+}
+.flex-container .div .logo {
+    img
+    width: 100px;
+}
+.flex-container .one {
+    text-align: center;
+
+}
+  
+.flex-container .two {
+    text-align: center;
+}
+
+.flex-container .three {
+    text-align: center;
+}
+
+.flex-container .four {
+    text-align: left;
+}
